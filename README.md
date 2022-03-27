@@ -37,3 +37,9 @@ git commit -m "replace_with_your_commit_message"
 ```
 git push
 ```
+
+### Install Python Packages
+
+```
+pip install -r requirements.txt
+```
