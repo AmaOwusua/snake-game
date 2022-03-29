@@ -1,4 +1,4 @@
-import curses
+import _curses
 from random import randint
 
 #constants
